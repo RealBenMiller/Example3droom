@@ -30,7 +30,7 @@ var APP_DATA = {
           "yaw": -0.5099564560529082,
           "pitch": -0.09401725164200059,
           "title": "Welcome",
-          "text": "This man says hello"
+          "text": "This is Lexington's example 3d room"
         },
         {
           "yaw": 1.0657019553361629,
