@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-3d-room",
-      "name": "3d Room",
+      "id": "0-3d-room-2",
+      "name": "3d Room 2",
       "levels": [
         {
           "tileSize": 256,
@@ -27,22 +27,22 @@ var APP_DATA = {
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": -0.5099564560529082,
-          "pitch": -0.09401725164200059,
-          "title": "Welcome",
-          "text": "This is Lexington's example 3d room"
+          "yaw": 0.005586939138051861,
+          "pitch": -0.13190473741053665,
+          "title": "Highways &amp; Accessibility",
+          "text": ""
         },
         {
-          "yaw": 1.0657019553361629,
-          "pitch": 0.04260144511981423,
-          "title": "We could put something nice here",
-          "text": "Text"
+          "yaw": 0.5539111138787867,
+          "pitch": -0.12441531902975811,
+          "title": "Development Considerations",
+          "text": ""
         },
         {
-          "yaw": 0.07011008841626776,
-          "pitch": -0.5899194143226154,
-          "title": "View of Canary Wharf",
-          "text": "Text"
+          "yaw": 3.12561498753057,
+          "pitch": 0.010923969417294899,
+          "title": "Watch Video",
+          "text": ""
         }
       ]
     }
